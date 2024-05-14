@@ -27,11 +27,11 @@ body {
 } 
 
 .navbar {
-  background: white;
+  background: rgb(172, 220, 226);
   padding: 20px;
 }
 .navbar a {
-  margin-right: 10px;
+  margin-right: 20px;
   text-decoration: none;
 } 
 

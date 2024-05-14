@@ -16,7 +16,9 @@ export default function RootLayout({ children }) {
       <body>
         <div className="navbar">
           <Link href="/">Home</Link>
-          <Link href="/list">List</Link>  
+          <Link href="/list">List</Link>
+          <Link href="/cart">cart</Link>  
+
         </div>
         {/* 칠드런 위에표시 공용용페이지로 나옴, 링크는 a태그대신씀 부드러움 */}
         {children}
