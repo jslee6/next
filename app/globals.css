@@ -48,3 +48,8 @@ body {
   border-bottom: 1px solid grey;
   line-height: 0px;
 } 
+
+
+.custom-cart-item {
+  color: rgb(213, 233, 216);
+}
